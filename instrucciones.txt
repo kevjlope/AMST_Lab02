@@ -1,0 +1,10 @@
+Cada integrante del grupo debe crear una rama con el siguiente formato
+"Nombre_APellido1_Apellido2
+En la parte del reto cada integrante en su rama debe crear
+una de las opciones propuestas por el reto:
+
+Video view: Obtener un video de YouTube.
+Calendar view: Mostrar el calendario con una tarea.
+Mostrar un mapa con Google Maps.
+Mostrar un gráfico lineal estático.
+Crear un menú usando un botón flotante
